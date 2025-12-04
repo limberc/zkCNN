@@ -43,7 +43,7 @@ The codebase is structured for clarity and maintainability:
 ### 1. Clone the repository and initialize submodules:
 
 ```bash
-git clone --recurse-submodules git@github.com:TAMUCrypto/zkCNN.git
+git clone --recurse-submodules git@github.com:limberc/zkCNN.git
 cd zkCNN
 ```
 **Note**: If you cloned without `--recurse-submodules`, you can initialize them later:
